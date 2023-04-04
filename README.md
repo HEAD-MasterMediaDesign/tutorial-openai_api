@@ -17,6 +17,7 @@ This is a more advanced example using the Kirby content management system.
 
 ## References
 
+
 ### Inspirations
 - [Design and Machine Learning Research Project](http://design-machine-learning.ch)
 - [Thinking Machines]()
@@ -26,4 +27,4 @@ This is a more advanced example using the Kirby content management system.
 
 
 ## Credits
-This tutorial was created by [Douglas Edric Stanley](http://abstractmachine.net) at the Master Media Design (HEAD–Genève), for the workshop [Within one body there are millions](#).
+This tutorial was created by [Douglas Edric Stanley](http://abstractmachine.net) (Master Media Design, HEAD – Genève), for the research project [Design and Machine Learning: Automation Takes Command?](https://www.hesge.ch/head/projet/design-et-machine-learning-lautomatisation-au-pouvoir).
