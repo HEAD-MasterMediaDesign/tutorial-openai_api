@@ -1,12 +1,16 @@
-# What Is This?
+# Tutorial Open AI API
+
+## What Is This?
 This tutorial explains how to integrate the Open AI API into a various types of webpage.
 
-## Simple Webpage Project
+## Tutorials
+
+### Simple Webpage Project
 The easiest project to get you started is a simple webpage containing a chatbot.
 
 [webpage](webpage/)
 
-## Kirby
+### Kirby
 This is a more advanced example using the Kirby content management system.
 
 [kirby](kirby/)
